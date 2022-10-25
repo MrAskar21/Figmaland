@@ -246,6 +246,9 @@
     .features-content__video{
         width: 100%;
     }
+    iframe{
+        display: none;
+    }
 }
 
 @media (max-width: 450px) {
