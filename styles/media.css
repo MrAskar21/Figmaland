@@ -237,7 +237,7 @@
         margin-bottom: 20px;
     }
     .header-content h1{
-        width: 333px;
+        max-width: 300px;
         margin-top: 120px;
     }
     .header-content p{
