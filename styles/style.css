@@ -194,7 +194,7 @@ h1{
 .organize-content__left h2{
     font-size: 48px;
     font-family: var(--GR);
-    width: 300px;
+    max-width: 300px;
     font-weight: 400;
     margin-bottom: 17px;
 }
@@ -258,7 +258,7 @@ h1{
 .mail-content__right h2{
     font-size: 48px;
     font-family: var(--GR);
-    width: 324px;
+    max-width: 350px;
     margin-bottom: 25px;
     font-weight: 400;
 }
